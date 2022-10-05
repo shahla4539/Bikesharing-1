@@ -1,4 +1,3 @@
-# Bikesharing-1
 # Bikesharing
 
 [link to dashboard](https://public.tableau.com/app/profile/shahla.ahmed/viz/Challenge14-VisualizationsfortheTripAnalysis/NYCStory?publish=yes)
